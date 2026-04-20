@@ -7,7 +7,7 @@
 
     <!-- NuGet パッケージメタデータ -->
     <PackageId>EcAuth.IdpUtilities</PackageId>
-    <Version>1.1.0</Version>
+    <Version>2.0.0</Version>
     <Authors>EcAuth</Authors>
     <Company>EcAuth</Company>
     <Description>Common utilities library for EcAuth Identity Provider (Email hashing, Iron encryption, Random string generation)</Description>
