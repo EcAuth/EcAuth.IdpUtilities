@@ -85,10 +85,9 @@ dotnet pack src/EcAuth.IdpUtilities/EcAuth.IdpUtilities.csproj --configuration R
 
 ## 依存関係
 
-- .NET 9.0
+- .NET 10.0
 - DotNetEnv (3.1.1)
-- Microsoft.EntityFrameworkCore.SqlServer (9.0.x)
-- System.Text.Json (9.0.x)
+- Microsoft.EntityFrameworkCore.SqlServer (10.0.x)
 - System.IdentityModel.Tokens.Jwt (8.x)
 - Microsoft.IdentityModel.Tokens (8.x)
 
